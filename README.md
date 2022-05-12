@@ -1,5 +1,7 @@
 ### Hi there 👋
-![](http://antzuhl.cn:4000/get/@Siegfried-qgf.readme)
+
+![Metrics](https://metrics.lecoq.io/Siegfried-qgf?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
+
 <!--
 **Siegfried-qgf/Siegfried-qgf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
