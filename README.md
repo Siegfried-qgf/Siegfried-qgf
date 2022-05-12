@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![Metrics](https://metrics.lecoq.io/Siegfried-qgf?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
-![Siegfried-qgf's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=这里替换成你的 GitHub ID&layout=compact&hide_border=true&langs_count=10)
+
+![Siegfried-qgf's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siegfried-qgf&layout=compact&hide_border=true&langs_count=10)
 
 <!--
 **Siegfried-qgf/Siegfried-qgf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
