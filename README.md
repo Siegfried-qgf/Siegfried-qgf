@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/Siegfried-qgf?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Siegfried-qgf&show_icons=true&theme=dark&count_private=true)
+
 
 ![Siegfried-qgf's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siegfried-qgf&layout=compact&hide_border=true&langs_count=10)
 
