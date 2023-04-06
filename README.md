@@ -1,5 +1,7 @@
 ### Here is Guofeng Quan🐇
-🔭 I’m currently working on Fudan NLP Lab and bilibili
+🔭 I’m currently working on Fudan NLP Lab 
+🔭 Now I'm working in bilibili ( ゜- ゜)つロ干杯
+
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Siegfried-qgf&show_icons=true&theme=dark&count_private=true)
