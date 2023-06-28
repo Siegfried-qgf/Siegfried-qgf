@@ -1,6 +1,6 @@
 ### Here is Guofeng Quan🐇
 🔭 I’m currently working on Fudan NLP Lab 
-🔭 Now I'm working in bilibili ( ゜- ゜)つロ干杯
+🔭 Now I'm working in alibaba cloud
 
 
 
